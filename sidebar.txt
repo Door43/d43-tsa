@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tsa:home|Door43 (tsa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tsa|d43-tsa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tsa/archive/master.zip|d43-tsa.zip]]
+
+**Recent Changes**
+{{changes>ns = tsa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tsa|Ethnologue data]]
+
